@@ -4,7 +4,7 @@ Icfai Business School ,
 Hyderbad .
 
 
-AUDIENCE: BTech CSE Students 
+ 
 
 The purpose of this project is to make SIMON GAME. I was provided with the UI, the buttons, colors and sounds. 
 I wrote the logic behind the game. The starting of game, search for wrong press at each turn and finally leveling up.
